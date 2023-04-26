@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Sneha Simhadri
 
 #### Your section leader's name
 
-TODO
+Chong Li
 
 #### Project title
 
-TODO
+Music matching website
 
 ***
 
