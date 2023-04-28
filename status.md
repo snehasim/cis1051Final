@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have created the website and started working on the questions.
 
 #### What have you not done for your project yet?
 
-TODO
+I have to create the paths from the users answers to the output.
 
 #### What problems, if any, have you encountered?
 
-TODO
+I had trouble with creating the website at first. 
