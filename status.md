@@ -6,7 +6,7 @@ Sneha Simhadri
 
 #### Your section leader's name
 
-Chong Li
+Elmira Talebianaraki
 
 #### Project title
 
